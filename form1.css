@@ -1,0 +1,30 @@
+h1 {
+ color: black;
+ border: 0ch;
+ text-align: center;
+}
+button{
+    color: black;
+    background-color: gray;
+}
+form{
+ text-align: center;
+ font-weight: 850;
+ 
+ background: -moz-linear-gradient(dark blue,skyblue);
+ }
+ body{
+     background-image:url("Rain1.jpg");
+ }
+ div{
+     font-size: medium;
+     background-image: -moz-element(blue);
+ }
+ input
+ {
+     text-align: left;
+     
+ }
+ label{
+     background-color: skyblue;
+ }
